@@ -3,20 +3,20 @@ Shock! - a collaborative audio + animation experiment
 
 # ⚡ SHOCK!
 
-Shock! is an open creative experiment built around audio storytelling.
+Shock! is an open creative collective built around audio storytelling.
 
-Each project has a script and a **master audio mix / PreSoundtrack**.  
-Creative reinterpretations are called **versions**.
+Each project has a script and a **master radio play / PreSoundtrack**.  
+Creative edits and reinterpretations are encouraged and will be called **versions**.
 
 ---
 
 ## 🎨 How to Participate
 
-- Animate, illustrate, or reinterpret a release  
-- Download files from the release folder  
-- Credit all collaborators using **#ShockVersions**  
+- Choose and download a Shock! project from the Projects folder  
+- Interperate the radio play / PreSoundtrack in your own visual style 
+- Post your work or WIP publicly anywhere you like, just credit all contributors to the project
 
-For full project details, credits, optional stems, Discord sharing, and posting guidelines, see each release folder.
+For full project details, credits, optional dialogue stems, Discord sharing, and posting guidelines, see each project folder
 
 ---
 
@@ -29,20 +29,20 @@ For full project details, credits, optional stems, Discord sharing, and posting 
 
 ## 🔓 License & Use
 
-Shock! releases are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](./LICENSE.md).  
+Shock! releases are licensed under [Creative Commons Attribution-ShareAlike 4.0](./LICENSE.md).  
 
-- You may remix, adapt, or build upon the audio for **non-commercial purposes**.  
-- Always credit all collaborators (script, audio, voices, music, visuals).  
-- Original master audio mix remains attributed to its creator.  
+- You may share, remix, adapt, or build upon the audio **even on monetized platforms** (e.g., YouTube)  
+- **Always credit all collaborators** (script, audio, voices, music, visuals)  
+- Derivative works should respect the master audio mix as a reference and follow the same attribution standards  
 
-For full license details and guidelines, see [LICENSE.md](./LICENSE.md).
+For full license details, see [LICENSE.md](./LICENSE.md).
 
 ---
 
 ## 💥 Why Shock! Exists
 
-Because animation is slow.  
-Because great ideas stall in isolation.  
-Because audio can solve story problems early.
+Because it's hard to get an original idea off the ground.  
+Because so many people want to put cool stuff out into the world.  
+Because audio is a creative tool that inspires and motivates action.
 
-Shock! is about momentum, versions, and creative conversation.
+Shock! is about sparking an idea, gaining momentum, and producting quality content with an audio-first approach.
