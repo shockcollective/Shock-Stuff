@@ -1,13 +1,18 @@
-# Shock_001_EternalShadow
+# Read This First! – Shock_001_EternalShadow
 
-Project materials for the Shock! collective.
+Welcome to Shock! #001 – Eternal Shadow. Please read this before downloading or remixing files.
 
-## License
+Project materials include:
+- Master audio mix / PreSoundtrack
+- Script
+- Credits
+- License
 
 Shock! #001 – Eternal Shadow is licensed under **CC BY-SA 4.0**.  
 You may remix, share, or adapt this work — including for monetized content — as long as all contributors are credited and derivative works (versions) follow the same license.  
 See LICENSE.md for full details.
 
+## Posting
 
 When posting your version of Eternal Shadow, please copy and paste these credits:
 
