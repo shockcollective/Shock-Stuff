@@ -30,7 +30,7 @@ For full project details, credits, optional dialogue stems, Discord sharing, and
 
 ## 🔓 License & Use
 
-Shock! releases are licensed under [Creative Commons Attribution-ShareAlike 4.0](./LICENSE.md).  
+Shock! releases are licensed under [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) 
 
 - You may share, remix, adapt, or build upon the audio **even on monetized platforms** (e.g., YouTube)  
 - **Always credit all collaborators** (script, audio, voices, music, visuals)  
