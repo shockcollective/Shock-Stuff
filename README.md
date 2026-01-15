@@ -6,7 +6,7 @@ Shock! - a collaborative animation collective
 Shock! is an open creative collective built around audio storytelling.
 
 Each project has a script and a **master radio play / PreSoundtrack**.  
-Creative edits and reinterpretations are encouraged and will be called **versions**.
+Creative edits and reinterpretations are encouraged.
 
 ---
 
