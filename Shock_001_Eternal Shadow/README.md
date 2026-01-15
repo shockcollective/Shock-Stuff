@@ -14,7 +14,7 @@ See LICENSE.md for full details.
 
 ## Posting
 
-When posting your version of Eternal Shadow, please copy and paste these credits:
+When posting your version of ##Eternal Shadow, please copy and paste these credits:
 
 Shock! Version of "Eternal Shadow"
 Original Script / Created By Max Beaudry (@mbeauzo)  
