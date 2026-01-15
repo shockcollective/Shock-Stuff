@@ -36,7 +36,7 @@ Shock! releases are licensed under [https://creativecommons.org/licenses/by-sa/4
 - **Always credit all collaborators** (script, audio, voices, music, visuals)  
 - Derivative works should respect the master audio mix as a reference and follow the same attribution standards  
 
-For full license details, see [LICENSE.md](./LICENSE.md).
+For full license details, see Shock_001_EternalShadow/LICENSE.md
 
 ---
 
