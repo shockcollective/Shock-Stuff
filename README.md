@@ -15,6 +15,7 @@ Creative edits and reinterpretations are encouraged.
 - Choose and download a Shock! project from the Projects folder  
 - Interperate the radio play / PreSoundtrack in your own visual style 
 - Post your work or WIP publicly anywhere you like, just credit all contributors to the project
+- Don't be discouraged if there are multiple iterations of the same short, that's the idea!
 
 For full project details, credits, optional dialogue stems, Discord sharing, and posting guidelines, see each project folder
 
