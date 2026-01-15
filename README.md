@@ -46,4 +46,4 @@ Because it's hard to get an original idea off the ground.
 Because so many people want to put cool stuff out into the world.  
 Because audio is a creative tool that inspires and motivates action.
 
-Shock! is about sparking an idea, gaining momentum, and producting quality content with an audio-first approach.
+Shock! is about sparking an idea, gaining momentum, and producing quality content with an audio-first approach.
