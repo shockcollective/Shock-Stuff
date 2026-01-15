@@ -20,7 +20,7 @@ Shock! Version of "Careers & Corporations"
 Original Script / Created By Tommy Sica (@tommy.sica)  
 Master Audio Mix / PreSoundtrack by PreSound Studios (@presound_studios)  
 Voices:  
-Sage: Abigail Townsend
+Sage: Abigail Townson (@abigail_voices)
 Warrior: Jim Pilot (JimPilotVoices.com)  
 Wizard: Nate Begle (NateBegle.com)  
 Elf: Geoff Pictor (GeoffPictor.com)  
