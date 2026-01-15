@@ -23,7 +23,7 @@ For full project details, credits, optional dialogue stems, Discord sharing, and
 
 ## 📂 Current Releases
 
-- [Shock! #001 – Eternal Shadow](./Shock_001_EternalShadow)  
+- [Shock! #001 – Eternal Shadow](./Shock_001_Eternal Shadow)  
 - [Shock! #002 – Careers And Corporations](./Shock_002_CareersAndCorporations)
 
 ---
