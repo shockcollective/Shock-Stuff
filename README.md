@@ -34,7 +34,8 @@ Shock! releases are licensed under [https://creativecommons.org/licenses/by-sa/4
 
 - You may share, remix, adapt, or build upon the audio **even on monetized platforms** (e.g., YouTube)  
 - **Always credit all collaborators** (script, audio, voices, music, visuals)  
-- Derivative works should respect the master audio mix as a reference and follow the same attribution standards  
+- Derivative works should respect the master audio mix as a reference and follow the same attribution standards
+- Collaborators shall not utilize any recording or performance of talent to simulate talent's voice or likeness, or to create any synthesized or "digital double" voice or likeness of talent.
 
 ---
 
