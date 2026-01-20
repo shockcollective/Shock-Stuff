@@ -24,7 +24,7 @@ Sage: Abigail Townson (@abigail_voices)
 Warrior: Jim Pilot (JimPilotVoices.com)  
 Wizard: Nate Begle (NateBegle.com)  
 Elf: Geoff Pictor (GeoffPictor.com)  
-Dragon: Tommy Sica
+Dragon: Tommy Sica  
 Additional Music / Sound Design: Tommy Sica (@tommy.sica) and Joe Salvatore (@joeysal20)  
 #ShockVersions  
 Create you're own version of "Careers & Corporations", go to Shock! GitHub: https://github.com/shockcollective/Shock-Stuff 
