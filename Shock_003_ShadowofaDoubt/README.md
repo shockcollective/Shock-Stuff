@@ -21,7 +21,7 @@ Master Audio Mix / PreSoundtrack by PreSound Studios (@presound_studios)
 Voices:  
 Dell / Shadow Dell: Melissa Del Toro (melissa@melissadeltoro.com)  
 Avery / Shadow Avery: Kelsey Painter (@keyseypainter_voice)
-Casting: Nate Begle (NateBegle.com)
+Casting: Nate Begle (NateBegle.com)  
 Additional Music / Sound Design: Tommy Sica (@tommy.sica) and Joe Salvatore (@joeysal20)
 #ShockVersions
 Create you're own visuals for "Shadow of a Doubt", go to Shock! GitHub: https://github.com/shockcollective/Shock-Stuff
