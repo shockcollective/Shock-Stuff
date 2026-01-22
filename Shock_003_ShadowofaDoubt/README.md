@@ -17,7 +17,7 @@ Posting
 When posting your version of 'Shadow of a Doubt', please copy and paste these credits:
 
 Shock! Version of "Shadow of a Doubt" Original Script / Created By Michelle McGee ([LinkedIn](https://www.linkedin.com/in/michelle-mcgee-writer/))  
-Master Audio Mix / PreSoundtrack by PreSound Studios (@presound_studios)
+Master Audio Mix / PreSoundtrack by PreSound Studios (@presound_studios)  
 Voices:  
 Dell / Shadow Dell: Melissa Del Toro (melissa@melissadeltoro.com)  
 Avery / Shadow Avery: Kelsey Painter (@keyseypainter_voice)
