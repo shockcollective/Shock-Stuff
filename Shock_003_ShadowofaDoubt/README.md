@@ -11,9 +11,9 @@ Project materials include:
 
 Shock! #003 – Shadow of a Doubt is licensed under CC BY-SA 4.0.
 You may visualize, share, or adapt this work — including for monetized content — as long as all contributors are credited and derivative works (versions) follow the same license.
-See LICENSE.md for full details.
-Posting
+See LICENSE.md for full details.  
 
+Posting  
 When posting your version of 'Shadow of a Doubt', please copy and paste these credits:
 
 Shock! Version of "Shadow of a Doubt" Original Script / Created By Michelle McGee ([LinkedIn](https://www.linkedin.com/in/michelle-mcgee-writer/))  
