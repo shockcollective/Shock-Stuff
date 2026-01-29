@@ -21,7 +21,7 @@ Original Script / Created By Tommy Sica (@tommy.sica)
 Master Audio Mix / PreSoundtrack by PreSound Studios (@presound_studios)  
 Voices:  
 Boy: Ezra Sacks (@ezra.sacks)  
-Woman Soldier: Evelyn McCauley (@evelinavocce)  
+Soldier: Evelyn McCauley (@evelinavocce)  
 Casting: Nate Begle (NateBegle.com)  
 Additional Music / Sound Design: Tommy Sica (@tommy.sica) and Joe Salvatore (@joeysal20)  
 #ShockVersions  
