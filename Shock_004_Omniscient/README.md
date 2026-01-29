@@ -25,4 +25,4 @@ Soldier: Evelyn McCauley (@evelinavocce)
 Casting: Nate Begle (NateBegle.com)  
 Additional Music / Sound Design: Tommy Sica (@tommy.sica) and Joe Salvatore (@joeysal20)  
 #ShockVersions  
-Create you're own version of "Omniscient", go to Shock! GitHub: https://github.com/shockcollective/Shock-Stuff
+Create your own version of "Omniscient", go to Shock! GitHub: https://github.com/shockcollective/Shock-Stuff
